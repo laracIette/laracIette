@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laracIette
 - 👀 I’m interested in programming, osu!, anime
-- 🌱 I’m currently learning C++, python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on yes
 - 📫 How to reach me by contacting me
 
