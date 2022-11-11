@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, osu!, anime
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate : no, I'm currently on a game project(C++ SDL)
-- 📫 How to reach me : La#6436 or nicosavlar@gmail.com
+- 📫 How to reach me : [La#6436](https://www.discordapp.com/users/1040646862874624063) or nicosavlar@gmail.com
 
 <!---
 laracIette/laracIette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
