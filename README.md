@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laracIette
+- 👋 Hi, I’m @laracIette, 17, male
 - 👀 I’m interested in programming, osu!, anime
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate : no, I'm currently on a game project(C++ SDL)
